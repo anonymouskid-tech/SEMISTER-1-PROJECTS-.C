@@ -14,7 +14,7 @@ int main() {
 	/* 
 	A=final amount including interest.
 	p=principal amount.
-	r=rate in%.
+	r=rate in(%).
 	n=no of compounding a year.
 	t=total no of years.
 	*/
