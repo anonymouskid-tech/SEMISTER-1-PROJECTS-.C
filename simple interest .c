@@ -15,7 +15,7 @@ int main() {
 	// input: principlal amount
 	printf("enter the principal amount: ");
 	scanf("%lf",&principal);
-	printf(")
+	
 	
 	// input : the rate of interest
 	printf("enter the rate of interet (in percentage):");
