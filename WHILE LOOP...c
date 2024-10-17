@@ -7,7 +7,8 @@ DATE: 07/10.24.
 // while loop
 #include <stdio.h>
 int main() {
-	int numbers = 0,start,stop,sum=0;
+	int numbers>=start,start,stop,sum=0;
+	
 	
 	printf("enter the number to start:");
 	scanf("%d",&start);
@@ -18,10 +19,11 @@ int main() {
 	while(numbers<=stop){
 		printf("%d \n",numbers);
 	
-	numbers++; }
+	numbers++; 
 		
-	sum +=numbers;
-	
+		sum=sum+numbers;
+	sum += numbers;
+	}
 	printf("the sum is: %d \n",sum);
 	
 	
