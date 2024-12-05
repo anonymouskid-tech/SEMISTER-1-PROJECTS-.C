@@ -9,7 +9,7 @@ DATE 22/10/24.
 
 
 #include <stdio.h>
-#include<string.h>//strcp
+#include<strings.h>//strcp
 struct student{
 	char name[30];
 	float height;
